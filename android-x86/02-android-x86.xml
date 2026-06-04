@@ -38,8 +38,8 @@
   <project path="external/hbm-prebuilts" name="external_hbm-prebuilts" remote="ag-github" revision="11" />
 
   <!-- Kernel -->
-  <project path="kernel/x86/common" name="kernel_common" remote="ag-github" sync-s="true" revision="hm/crimson" />
-  <project path="kernel/x86/surface" name="android-generic/kernel_common" remote="ghub" sync-s="true" revision="hm/crimson-surface" />
+  <project path="kernel/x86/common" name="kerNel_common" remote="breakerb0y" sync-s="true" revision="hm/crimson" />
+  <project path="kernel/x86/surface" name="kerNel_common" remote="breakerb0y" sync-s="true" revision="hm/crimson-surface" />
   <project path="kernel/x86/zenith" name="kernel-zenith" remote="ag-github" sync-s="true" revision="6.12" />
   <project path="external/kernel-drivers" name="exTernal_kernel-drivers" sync-s="true" remote="ag-github" revision="6.6" />
   <project path="external/kernel-drivers-zenith" name="external_keRnel-drivers" sync-s="true" remote="ag-github" revision="zenith" />

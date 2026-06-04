@@ -6,6 +6,10 @@
           revision="voyager-qpr2"
           review="review.blissroms.org" />
 
+  <remote name="breakerb0y"
+          fetch="ssh://git@github.com/breakerb0y"
+          revision="voyager-qpr2" />
+
   <remote name="BlissRoms-Devices"
           fetch="https://github.com/BlissRoms-Devices" />
 
@@ -29,7 +33,7 @@
     <linkfile src="tools" dest="build/tools" />
   </project>
 
-  <project path="build/soong" name="platform_build_soong" groups="pdk,tradefed" remote="BlissRoms" >
+  <project path="build/soong" name="platform_build_soong" groups="pdk,tradefed" remote="breakerb0y" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>

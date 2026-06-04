@@ -15,5 +15,8 @@
   <remote name="BlissOS"
           fetch="https://github.com/BlissOS"
           revision="voyager-x86-qpr2" />
+  <remote name="breakerb0y"
+          fetch="https://github.com/breakerb0y"
+	  revision="voyager-x86-qpr2" />
 
 </manifest>
