@@ -33,7 +33,7 @@
     <linkfile src="tools" dest="build/tools" />
   </project>
 
-  <project path="build/soong" name="platform_build_soong" groups="pdk,tradefed" remote="Breakerb0y" >
+  <project path="build/soong" name="platform_build_soong_lat" groups="pdk,tradefed" remote="Breakerb0y" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
