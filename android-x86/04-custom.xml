@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Initrd & installer -->
-  <project path="bootable/aaropa" name="bootable_aaropa" remote="breakerb0y" />
+  <project path="bootable/aaropa" name="bootable_aaropa_lat" remote="breakerb0y" />
 
   <!-- Device tree -->
   <project path="device/generic/common" name="device_generic_common_lat" remote="breakerb0y" sync-s="true" />
