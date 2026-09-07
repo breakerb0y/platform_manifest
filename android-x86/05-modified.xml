@@ -16,7 +16,7 @@
   <project path="external/mksh" name="platform_external_mksh" remote="BlissOS" />
   <project path="frameworks/av" name="platform_frameworks_av" remote="BlissOS" />
   <project path="frameworks/base" name="platform_frameworks_base_lat" remote="breakerb0y" />
-  <project path="frameworks/native" name="platform_frameworks_native" remote="BlissOS" />
+  <project path="frameworks/native" name="platform_frameworks_native" remote="breakerb0y" />
   <project path="hardware/interfaces" name="platform_hardware_interfaces" remote="BlissOS" />
   <project path="packages/apps/Launcher3" name="platform_packages_apps_Launcher3_lat" remote="breakerb0y" />
   <project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="breakerb0y" />
