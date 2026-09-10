@@ -12,6 +12,7 @@
   <remote name="hm" fetch="https://github.com/hmtheboy154" />
   <remote name="axon" fetch="https://github.com/axonasif/" />
   <remote name="sg" fetch="https://github.com/supremegamers" />
+  <remote name="breakerb0y_nobranch" fetch="https://github.com/breakerb0y" />
   <remote name="BlissOS"
           fetch="https://github.com/BlissOS"
           revision="voyager-x86-qpr2" />
